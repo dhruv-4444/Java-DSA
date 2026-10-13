@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/dhruv-4444/Java-DSA/tree/master/0645-set-mismatch) |
 | [1020-number-of-enclaves](https://github.com/dhruv-4444/Java-DSA/tree/master/1020-number-of-enclaves) |
 | [2574-left-and-right-sum-differences](https://github.com/dhruv-4444/Java-DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/dhruv-4444/Java-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -34,5 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/dhruv-4444/Java-DSA/tree/master/0645-set-mismatch) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/dhruv-4444/Java-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Hash Table
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/dhruv-4444/Java-DSA/tree/master/0645-set-mismatch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/dhruv-4444/Java-DSA/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
