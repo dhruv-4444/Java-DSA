@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0500-keyboard-row](https://github.com/dhruv-4444/Java-DSA/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/dhruv-4444/Java-DSA/tree/master/0645-set-mismatch) |
 | [1020-number-of-enclaves](https://github.com/dhruv-4444/Java-DSA/tree/master/1020-number-of-enclaves) |
 | [2574-left-and-right-sum-differences](https://github.com/dhruv-4444/Java-DSA/tree/master/2574-left-and-right-sum-differences) |
@@ -40,9 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0500-keyboard-row](https://github.com/dhruv-4444/Java-DSA/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/dhruv-4444/Java-DSA/tree/master/0645-set-mismatch) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/dhruv-4444/Java-DSA/tree/master/0645-set-mismatch) |
+## String
+|  |
+| ------- |
+| [0500-keyboard-row](https://github.com/dhruv-4444/Java-DSA/tree/master/0500-keyboard-row) |
 <!---LeetCode Topics End-->
